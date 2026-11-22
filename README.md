@@ -76,6 +76,7 @@ diffconscience diff.txt --json
 
 | Stage | Tool |
 |---|---|
+| 📡 Outreach | [smsaria](https://github.com/awaisdev5765/smsaria) — AI for basic phones (SMS + USSD) |
 | Design | [nativetap](https://github.com/awaisdev5765/nativetap) — mobile design intelligence |
 | Shell correctness | [bashproof](https://github.com/awaisdev5765/bashproof) — agent-proof quoting |
 | **This diff** | **diffconscience — pre-handoff audit** |
