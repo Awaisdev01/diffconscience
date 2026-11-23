@@ -1,5 +1,11 @@
 # 🧭 diffconscience
 
+<p>
+  <a href="https://github.com/Awaisdev01/diffconscience/releases"><img src="https://img.shields.io/github/v/release/Awaisdev01/diffconscience" alt="release"></a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT">
+  <img src="https://img.shields.io/badge/zero_dependencies-✓-B7FF45?labelColor=101114" alt="zero deps">
+</p>
+
 **The pre-handoff audit for AI agent changes.**
 
 Agents finish work faster than humans review it. The gap between "agent
