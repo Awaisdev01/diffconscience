@@ -43,7 +43,7 @@ diffconscience: 3 files changed — 1 errors, 3 warnings
 ## Install
 
 ```bash
-git clone https://github.com/awaisdev5765/diffconscience.git ~/.claude/skills/diffconscience
+git clone https://github.com/Awaisdev01/diffconscience.git ~/.claude/skills/diffconscience
 ```
 
 Cross-agent skill format (Claude Code, Cursor, Codex, Windsurf, Antigravity).
@@ -76,9 +76,9 @@ diffconscience diff.txt --json
 
 | Stage | Tool |
 |---|---|
-| 📡 Outreach | [smsaria](https://github.com/awaisdev5765/smsaria) — AI for basic phones (SMS + USSD) |
-| Design | [nativetap](https://github.com/awaisdev5765/nativetap) — mobile design intelligence |
-| Shell correctness | [bashproof](https://github.com/awaisdev5765/bashproof) — agent-proof quoting |
+| 📡 Outreach | [smsaria](https://github.com/Awaisdev01/smsaria) — AI for basic phones (SMS + USSD) |
+| Design | [nativetap](https://github.com/Awaisdev01/nativetap) — mobile design intelligence |
+| Shell correctness | [bashproof](https://github.com/Awaisdev01/bashproof) — agent-proof quoting |
 | **This diff** | **diffconscience — pre-handoff audit** |
 | Code quality | [prism_doctor](https://pub.dev/packages/prism_doctor) — design-system lints |
 | Launch | [shipcheck](https://pub.dev/packages/shipcheck) — release-readiness audit |
